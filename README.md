@@ -15,8 +15,8 @@ If it is vulnerable it will look like this:
 
 Usage:-
 1. Download the script
-2. give execute permission [ sudo chmod +x cache_PURGE.sh ]
-3. ./cache_PURGE.sh <url>
+2. give execute permission [ sudo chmod +x cache-purge.sh ]
+3. ./cache-purge.sh <url>
 
 
 
