@@ -6,7 +6,8 @@ Description: If the Purge request is available to any user, even those who are n
 How to Perform: Simply give the curl command: curl -X PURGE https://target.com
 
 If it is vulnerable it will look like this:
-![image](https://github.com/MATRIXDEVIL/Unauthenticated_Cache_PURGE/assets/92071491/690053a3-0ccc-4a72-817a-9c52225af330)
+
+![image](https://github.com/MATRIXDEVIL/Unauthenticated_Cache_PURGE/assets/92071491/ad8ec744-37ba-48d8-bb40-c2ae5d274891)
 
 
 
