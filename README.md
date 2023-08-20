@@ -1,6 +1,5 @@
 # Unauthenticated_Cache_PURGE
 
-Unauthenticated Cache Purge
 Description: If the Purge request is available to any user, even those who are not authenticated, they can delete/invalidate the caches stored at certain resource. This can lead to increased bandwidth costs and degraded application performance. Allowing anonymous users to purge cache could be used to maliciously degrade performance.
 
 How to Perform: Simply give the curl command: curl -X PURGE https://target.com
